@@ -15,7 +15,6 @@ This project demonstrates the implementation of Spring Boot, Spring MVC, Spring 
 - **Spring Boot** – Backend Framework
 - **Spring MVC** – Web Application Architecture
 - **Spring Data JPA** – Database Operations
-- **Hibernate** – ORM Framework
 - **MySQL** – Relational Database
 - **Maven** – Dependency Management
 - **Eclipse IDE** – Development Environment
